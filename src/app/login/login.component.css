@@ -10,7 +10,7 @@
   background-color: #FFF;
 }
 .login-logo > img {
-  object-fit: cover;
+  object-fit: contain;
   width: calc(100% + 50px);
   display: block;
   height: 200px;
